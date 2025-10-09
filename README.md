@@ -121,13 +121,6 @@ flowchart LR
 
 ---
 
-### 🎮 Extras (optional)
-- Visitor counter: `![visitors](https://visitor-badge.laobi.icu/badge?page_id=Thizisfranklin.Thizisfranklin)`  
-- Contribution Snake (GitHub Action): see `Platane/snk` and embed the generated SVG.
-
----
-
-> Paste this file as `README.md` into a public repo named **Thizisfranklin** to make it your profile.
 
 <!-- Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
