@@ -64,7 +64,7 @@ flowchart LR
 - 🔭 I’m currently working on **business‑focused** data & ML projects (clear KPIs → measurable impact).
 - 🌱 I’m learning **advanced machine learning** (tree ensembles, gradient boosting, deep learning) and **Generative AI** (LLMs, RAG, prompt evaluation, guardrails).
 - 👯 I’m looking to collaborate on **end‑to‑end ML pipelines**, **NLP/LLM apps**, and **sports analytics**.
-- ⚡ **Fun fact — Football & coaching:** I’m an avid Football ( which some refer to as Soccer😁) fan and future coach.
+- ⚡ **Fun fact — Football & coaching:** I’m an avid Football ( which some refer to as Soccer😁) fan.
   - One day I’d love to coach—bringing a data-informed, people-first style
 
 ## 🗂️ Featured Project
