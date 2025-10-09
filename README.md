@@ -77,6 +77,11 @@ flowchart LR
 ---
 
 ## 📊 GitHub Stats
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Thizisfranklin&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=Thizisfranklin&theme=radical" alt="Streak stats"/>
+</div>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thizisfranklin&layout=compact&theme=radical" height="140" alt="Top langs"/>
