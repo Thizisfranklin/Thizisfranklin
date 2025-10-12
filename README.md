@@ -60,7 +60,7 @@ flowchart LR
 
 ---
 
-## 💡 Here are some ideas to get you started
+## 💡 
 - 🔭 I’m currently working on **business‑focused** data & ML projects (clear KPIs → measurable impact).
 - 🌱 I’m learning **advanced machine learning** (tree ensembles, gradient boosting, deep learning) and **Generative AI** (LLMs, RAG, prompt evaluation, guardrails).
 - 👯 I’m looking to collaborate on **end‑to‑end ML pipelines**, **NLP/LLM apps**, and **sports analytics**.
