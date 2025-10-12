@@ -89,22 +89,6 @@ flowchart LR
 
 ---
 
-## 🧭 Roadmap → ML Engineer
-- ✅ Stats/ML fundamentals • **Python/SQL** mastery
-- ✅ Reproducible pipelines (venv/conda, Make, **Docker**)
-- ✅ **MLOps**: versioning (DVC/Git), experiment tracking (**MLflow**)
-- ▶️ Serving: **FastAPI**, gRPC, vector search
-- ▶️ Cloud: **AWS (SageMaker)** / **GCP (Vertex AI)**, CI/CD
-- ▶️ Reliability: evals, monitoring, data quality checks
-- 🔜 Systems for **LLMs**: RAG, prompt pipelines, structured evals
-
----
-
-## 📝 I Write / Share
-- Notes & mini‑guides on ML engineering
-- Short posts: “Perplexity down, vibes up.”
-- Occasional dashboards that even mom can read 😄
-
 ---
 
 ## 🌐 Connect
