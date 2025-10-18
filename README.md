@@ -86,7 +86,7 @@ flowchart LR
 *Stack:* Python · pandas · scikit-learn · (optional) FAISS/Annoy · FastAPI/Flask · Docker
 
 **DiabetesWatch** — “Recall-first” monitoring around a diabetes risk model: batch/real-time scoring, ROC/AUC & recall tracking, drift checks, and a simple clinician dashboard.  
-*Stack:* Python · scikit-learn · pandas · (optional) Airflow/Prefect · Streamlit/Dash
+*Stack:* Python · scikit-learn · pandas ·KNN
 
 **FarmGuide:Mushroom Safety Classifer** — Supervised learning to classify edible vs. poisonous mushrooms with a clean preprocessing pipeline and evaluation (ROC/AUC, F1, confusion matrix).
 
