@@ -85,15 +85,7 @@ flowchart LR
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Thizisfranklin&show_icons=true&theme=radical" alt="GitHub stats"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=Thizisfranklin&theme=radical" alt="Streak stats"/>
-</div>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thizisfranklin&layout=compact&theme=radical" height="140" alt="Top langs"/>
-</p>
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Thizisfranklin&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=percentile" alt="Franklin's GitHub stats"/> <img height="170" src="https://streak-stats.demolab.com?user=Thizisfranklin&theme=radical&date_format=j%20M%5B%20Y%5D" alt="Franklin's Streak stats"/> </div> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thizisfranklin&layout=compact&theme=radical&langs_count=6&size_weight=0.5&count_weight=0.5" height="140" alt="Franklin's Top languages"/> </p>
 
 ---
 
