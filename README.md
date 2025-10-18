@@ -67,12 +67,28 @@ flowchart LR
 - ⚡ **Fun fact — Football & coaching:** I’m an avid Football ( which some refer to as Soccer😁) fan.
   - One day I’d love to coach—bringing a data-informed, people-first style
 
-## 🗂️ Featured Project
-<a href="https://github.com/Thizisfranklin/Mushroom-Edibility-Prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thizisfranklin&repo=Mushroom-Edibility-Prediction&theme=radical" alt="Mushroom Edibility Prediction"/>
-</a>
+## 🗂️ Featured Projects
 
-**Mushroom‑Edibility‑Prediction** — Supervised learning to classify edible vs. poisonous mushrooms, with a clean preprocessing pipeline, baseline models, and evaluation (ROC/AUC, F1, confusion matrix).
+<!-- Pinned cards -->
+<p align="left">
+  <a href="https://github.com/Thizisfranklin/RealTime-TeamFit-Recommender">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thizisfranklin&repo=RealTime-TeamFit-Recommender&theme=radical" alt="RealTime-TeamFit-Recommender"/>
+  </a>
+  <a href="https://github.com/Thizisfranklin/DiabetesWatch">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thizisfranklin&repo=DiabetesWatch&theme=radical" alt="DiabetesWatch"/>
+  </a>
+  <a href="https://github.com/Thizisfranklin/Mushroom-Edibility-Prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thizisfranklin&repo=Mushroom-Edibility-Prediction&theme=radical" alt="Mushroom-Edibility-Prediction"/>
+  </a>
+</p>
+
+**RealTime-TeamFit-Recommender** — Recommends high-performing team lineups in real time using skills, availability, and role fit.  
+*Stack:* Python · pandas · scikit-learn · (optional) FAISS/Annoy · FastAPI/Flask · Docker
+
+**DiabetesWatch** — “Recall-first” monitoring around a diabetes risk model: batch/real-time scoring, ROC/AUC & recall tracking, drift checks, and a simple clinician dashboard.  
+*Stack:* Python · scikit-learn · pandas · (optional) Airflow/Prefect · Streamlit/Dash
+
+**FarmGuide:Mushroom Safety Classifer** — Supervised learning to classify edible vs. poisonous mushrooms with a clean preprocessing pipeline and evaluation (ROC/AUC, F1, confusion matrix).
 
 ---
 
