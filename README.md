@@ -14,7 +14,7 @@
 <!-- Fun coder GIF -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
 
-### Full‑Stack Data Scientist → Aspiring **ML Engineer**
+###  Aspiring **ML Engineer**
 **ETL → ML → MLOps → Dashboards** • Python • SQL • PyTorch • Docker • AWS/GCP
 
 <i>“🧹 ETL for breakfast, 📈 ROC for lunch; 📊 dashboards for dinner — 🔍🤖 explainable models my mom can trust.”</i>
@@ -39,33 +39,6 @@
 
 ---
 
-## 📐 What I Build (E2E ML)
-```mermaid
-flowchart LR
-    A[Raw Data] --> B[ETL: Pandas/SQL]
-    B --> C[Model: scikit-learn/PyTorch]
-    C --> D[API: FastAPI]
-    D --> E[Dashboard: Streamlit/ Power BI]
-    C --> F[Tracking: MLflow]
-    C --> G[Monitoring: Prometheus]
-```
-> End‑to‑end pipelines from data to deployable, explainable services.
-
----
-
-## 🚀 Current Focus
-- **Train → Serve → Monitor** workflows (FastAPI + Docker + AWS/GCP)
-- **NLP/LLM** projects: embeddings, retrieval, prompt/eval, guardrails
-- **Experimentation** & KPI dashboards teammates actually use
-
----
-
-## 💡 
-- 🔭 I’m currently working on **business‑focused** data & ML projects (clear KPIs → measurable impact).
-- 🌱 I’m learning **advanced machine learning** (tree ensembles, gradient boosting, deep learning) and **Generative AI** (LLMs, RAG, prompt evaluation, guardrails).
-- 👯 I’m looking to collaborate on **end‑to‑end ML pipelines**, **NLP/LLM apps**, and **sports analytics**.
-- ⚡ **Fun fact — Football & coaching:** I’m an avid Football ( which some refer to as Soccer😁) fan.
-  - One day I’d love to coach—bringing a data-informed, people-first style
 
 ## 🗂️ Featured Projects
 
