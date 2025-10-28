@@ -25,7 +25,6 @@
 
 ## 💫 About Me
 - 🎓 Data Science @ **UTA ’26**
-- 💼 Amazon **Operational Strategy & People Analytics** Extern
 - 🧭 **McKinsey Forward** Fellow • **ColorStack** Fellow
 - 🧠 Interests: LLMs, NLP, ML systems, monitoring & explainability
 - 🎯 Long‑term goal: **Machine Learning Engineer** who builds reliable, explainable AI
