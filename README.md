@@ -46,9 +46,7 @@
   <a href="https://github.com/Thizisfranklin/RealTime-TeamFit-Recommender">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thizisfranklin&repo=RealTime-TeamFit-Recommender&theme=radical" alt="RealTime-TeamFit-Recommender"/>
   </a>
-  <a href="https://github.com/Thizisfranklin/DiabetesWatch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thizisfranklin&repo=DiabetesWatch&theme=radical" alt="DiabetesWatch"/>
-  </a>
+
   <a href="https://github.com/Thizisfranklin/Mushroom-Edibility-Prediction">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thizisfranklin&repo=Mushroom-Edibility-Prediction&theme=radical" alt="Mushroom-Edibility-Prediction"/>
   </a>
