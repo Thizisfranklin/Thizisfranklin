@@ -26,7 +26,7 @@
 ## 💫 About Me
 - 🎓 Data Science @ **UTA ’26**
 - 🧭 **McKinsey Forward** Fellow • **ColorStack** Fellow
-- 🧠 Interests: LLMs, NLP, ML systems, monitoring & explainability
+- 🧠 Interests: Data Science, Data Analytics, Product Ownership,LLMs, NLP, ML systems
 - 🎯 Long‑term goal: **Machine Learning Engineer** who builds reliable, explainable AI
 
 ---
