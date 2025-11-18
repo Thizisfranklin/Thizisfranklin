@@ -23,7 +23,7 @@
 
 ---
 
-## 🧰 Tech Stack (Icons Only)
+## 🧰 Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
