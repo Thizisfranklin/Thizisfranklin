@@ -7,7 +7,7 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding gif"/>
 
-### ⚡ Aspiring ML Engineer / Data Scienctist   
+### ⚡ Aspiring ML Engineer / Data Scientist   
 <i>From raw data → pipelines → models → dashboards.</i>
 
 </div>
