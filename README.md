@@ -1,6 +1,6 @@
 # Hi 👋 I'm Franklin Osualaaham
 
-I’m a data science student at the University of Texas at Arlington (’26), interested in building end-to-end ML systems—from data pipelines and models to the analytics that drive real decisions.
+I’m a data science student at the University of Texas at Arlington (’27), interested in building end-to-end ML systems—from data pipelines and models to the analytics that drive real decisions.
 
 ---
 
