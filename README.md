@@ -1,61 +1,76 @@
-## Hi there 👋
+# Hi 👋 I'm Franklin Osualaaham
 
-<!-- Animated header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Franklin%20Osualaaham&fontSize=40&animation=fadeIn&fontColor=E0F2FE)
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding gif"/>
-
-### ⚡ Aspiring ML Engineer / Data Scientist   
-<i>From raw data → pipelines → models → dashboards.</i>
-
-</div>
+I’m a data science student at the University of Texas at Arlington (’26), interested in building end-to-end ML systems—from data pipelines and models to the analytics that drive real decisions.
 
 ---
 
-## 💫 About Me
+## 🧠 About Me
 
-- 🎓 Data Science @ **UTA ’26**  
-- 🧭 **McKinsey Forward** Fellow • **ColorStack** Fellow  
-- 🤖 Interests: ML engineering, LLMs, NLP, data platforms, analytics engineering  
-- 🎯 Long-term goal: build reliable, explainable AI systems end-to-end  
-
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img 
-      src="https://skillicons.dev/icons?i=python,pandas,postgres,mysql,aws,gcp,docker,linux,bash,git,github,tableau,fastapi,tensorflow,pytorch&theme=dark&perline=8" 
-      alt="Tech stack icons"
-    />
-  </a>
-</p>
+- 🎓 **Data Science @ UTA ’27**  
+- 🎯 **Interests:** Data Science(Growth& Product Analytics), ML engineering, LLMs, NLP, analytics engineering, data platforms  
+- 🌱 **Growing through:** McKinsey Forward & ColorStack communities  
+- 🔭 Long-term goal: design reliable, explainable AI products that are easy for non-experts to trust
 
 ---
 
-## 🌐 Connect
+## 🚀 What I'm Up To
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/franklinmo/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/Thizisfranklin">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
-  </a>
-</p>
+- 📊 Building ML projects that turn raw data into product insights and decisions  
+- 🤖 Experimenting with LLMs and agents for retrieval, analytics, and workflow automation  
+- ⚽ Exploring sports and product analytics use cases to sharpen my modeling + storytelling skills  
 
 ---
 
-<div align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=550&color=38BDF8&lines=Building+ML+systems+end-to-end;Turning+data+into+decisions;Always+learning%2C+always+shipping" 
-    alt="Typing SVG" 
-  />
-</div>
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/franklinmo/)  
+- [GitHub](https://github.com/Thizisfranklin)
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
+## 💻 Tech Stack:
+
+**Languages & Querying:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**ML & AI:**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF9E0F?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs%20%26%20RAG-111827?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-2563EB?style=for-the-badge)
+
+**Data Visualization & Analytics:**  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-0E9AA7?style=for-the-badge)
+
+**Data & Cloud:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
+
+**Tools & Workflow:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+---
+
+Thanks for stopping by — I’m always learning and always building. 🙂
+
+
+
