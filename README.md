@@ -8,7 +8,7 @@ I’m a third year data science student at the University of Texas at Arlington,
 - 🎓 **Data Science @ UTA ’27**  
 - 🎯 **Interests:** Data Science(Growth& Product Analytics), ML engineering, LLMs, NLP, AI Product management, data platforms  
 - 🌱 **Growing through:** McKinsey Forward & ColorStack communities  
-- 🔭 Long-term goal: design reliable, explainable AI products that are easy for non-experts to trust
+- 🔭 Long-term goal: Make my youngerself proud
 
 ---
 
