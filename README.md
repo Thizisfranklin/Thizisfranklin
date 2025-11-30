@@ -1,6 +1,6 @@
 # Hi 👋 I'm Franklin Osualaaham
 
-I’m a data science student at the University of Texas at Arlington (’26), interested in how data, AI, and technology can shape product decisions and improve real experiences for people.
+I’m a third year data science student at the University of Texas at Arlington, interested in how data, AI, and technology can shape product decisions and improve real experiences for people.
 ---
 
 ## 🧠 About Me
