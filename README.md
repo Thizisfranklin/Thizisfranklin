@@ -1,4 +1,4 @@
-# Hi 👋 I'm Franklin Osualaaham
+# Hi 👋 I'm Franklin 
 
 I’m a third year data science student at the University of Texas at Arlington, interested in how data, AI, and technology can shape product decisions and improve real experiences for people.
 ---
