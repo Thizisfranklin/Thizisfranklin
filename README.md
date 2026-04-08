@@ -36,7 +36,6 @@ I’m a third year data science student at the University of Texas at Arlington,
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
 
 ### 🤖 Machine Learning & AI
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -50,7 +49,6 @@ I’m a third year data science student at the University of Texas at Arlington,
 ![Causal Inference](https://img.shields.io/badge/Causal%20Inference-059669?style=for-the-badge)
 ![Survival Analysis](https://img.shields.io/badge/Survival%20Analysis-DC2626?style=for-the-badge)
 
----
 
 ### 📊 Data Analysis & Engineering
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -59,7 +57,6 @@ I’m a third year data science student at the University of Texas at Arlington,
 ![NetworkX](https://img.shields.io/badge/NetworkX-000000?style=for-the-badge)
 ![PyTorch Geometric](https://img.shields.io/badge/PyTorch%20Geometric-EE4C2C?style=for-the-badge)
 
----
 
 ### 🧱 Data Systems & Deployment
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -68,7 +65,6 @@ I’m a third year data science student at the University of Texas at Arlington,
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
 
 ### 📈 Business Analytics & Experimentation
 ![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-2563EB?style=for-the-badge)
@@ -78,22 +74,14 @@ I’m a third year data science student at the University of Texas at Arlington,
 ![Product KPIs](https://img.shields.io/badge/Product%20Analytics-059669?style=for-the-badge)
 ![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-0F172A?style=for-the-badge)
 
----
-
 ### 📊 Visualization
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
 
----
 
 Thanks for stopping by — I’m always learning and always building. 🙂
 
 
-
-### 📊 Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
