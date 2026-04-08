@@ -16,7 +16,6 @@ I’m a third year data science student at the University of Texas at Arlington,
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/franklinmo/)  
-- [GitHub](https://github.com/Thizisfranklin)
 
 ---
 
