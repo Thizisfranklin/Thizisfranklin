@@ -6,18 +6,10 @@ I’m a third year data science student at the University of Texas at Arlington,
 ## 🧠 About Me
 
 - 🎓 **Data Science @ UTA ’27**  
-- 🎯 **Interests:** Data Science(Growth& Product Analytics), ML engineering, LLMs, AI Product management 
+- 🎯 **Interests:** Data Science | Engineering predictive models, Agentic RAG systems, and robust A/B testing frameworks to solve high-stakes business problems.
 - 🌱 **Growing through:** McKinsey Forward & ColorStack communities  
 - 🔭 Long-term goal: Make my youngerself proud😁
-
-
----
-
-## 🚀 What I'm Up To
-
-- 📊 Building ML projects that turn raw data into product insights and decisions  
-- 🤖 Experimenting with LLMs and agents for retrieval, analytics, and workflow automation  
-- ⚽ Exploring product analytics use cases to sharpen my modeling + storytelling skills  
+ 
 
 ---
 
