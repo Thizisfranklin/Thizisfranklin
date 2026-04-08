@@ -17,7 +17,7 @@ I’m a third year data science student at the University of Texas at Arlington,
 
 - 📊 Building ML projects that turn raw data into product insights and decisions  
 - 🤖 Experimenting with LLMs and agents for retrieval, analytics, and workflow automation  
-- ⚽ Exploring sports and product analytics use cases to sharpen my modeling + storytelling skills  
+- ⚽ Exploring product analytics use cases to sharpen my modeling + storytelling skills  
 
 ---
 
