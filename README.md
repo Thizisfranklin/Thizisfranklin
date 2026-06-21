@@ -5,9 +5,7 @@ I’m a third year data science student at the University of Texas at Arlington,
 
 ## 🧠 About Me
 
-- 🎓 **Data Science @ UTA ’27**  
-- 🎯 **Interests:** Data Science | Engineering predictive models, Agentic RAG systems, and robust A/B testing frameworks to solve high-stakes business problems.
-- 🌱 **Growing through:** McKinsey Forward & ColorStack communities  
+- 🎓 **Data Science @ UTA ’27** 
 - 🔭 Long-term goal: Make my youngerself proud😁
  
 
