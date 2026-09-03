@@ -70,7 +70,5 @@ I’m a fourth year data science student at the University of Texas at Arlington
 
 
 
-Thanks for stopping by — I’m always learning and always building. 🙂
-
 
 
