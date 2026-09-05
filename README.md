@@ -11,7 +11,7 @@ I'm currently building my experience through applied AI, analytics, research, an
 ## 🧠 About Me
 
 * 🎓 **B.S. Data Science @ UT Arlington — May 2027**
-* 📊 Interested in **Product & Decision Science, Experimentation, Causal Inference, Marketplace Analytics, Pricing & Revenue, and Trust & Safety**
+* 📊 Interested in **Product & Decision Science, Experimentation, Causal Inference, Marketplace Analytics, Pricing & Revenue, and FinTech**
 * 🤖 Exploring **Applied AI, LLM evaluation, NLP, RAG, and machine learning systems**
 * 🛠️ Currently building projects around **food-delivery marketplace decisions**
 
