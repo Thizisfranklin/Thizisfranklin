@@ -1,19 +1,22 @@
 # Hi 👋 I'm Franklin
 
-I'm a fourth-year Data Science student at the University of Texas at Arlington, graduating in May 2027. I'm interested in using data, statistics, machine learning, and AI to understand real-world behavior and help teams make better product and business decisions.
+## **Bachelor of Science in Data Science @ UT Arlington | Class of 2027**
 
-I'm especially drawn to problems involving **experimentation, causal inference, product and marketplace analytics, pricing and revenue, trust & safety, and applied AI**. I enjoy projects where the goal isn't just to build a model, but to understand **what happened, why it happened, and what decision should come next**.
+I'm a senior Data Science student interested in using **data, experimentation, machine learning, and AI to understand consumer behavior, improve products, and support better decisions**.
 
-I'm currently building my experience through applied AI, analytics, research, and independent data science projects, and I'm open to **new-grad Data Science and Applied AI opportunities**.
+I'm especially drawn to problems involving **product analytics, experimentation, pricing, marketplaces, and customer behavior**, with a focus on turning data into measurable impact.
 
----
+### 🧠 Core Interests & Skills
 
-## 🧠 About Me
+* **Experimentation & A/B Testing**
+* **Product Analytics & Product Sense**
+* **Causal Inference**
+* **Machine Learning & Data Mining**
+* **Applied AI & Model Evaluation**
 
-* 🎓 **B.S. Data Science @ UT Arlington — May 2027**
-* 📊 Interested in **Product & Decision Science, Experimentation, Causal Inference, Marketplace Analytics, Pricing & Revenue, and FinTech**
-* 🤖 Exploring **Applied AI, LLM evaluation, NLP, RAG, and machine learning systems**
-* 🛠️ Currently building projects around **food-delivery marketplace decisions**
+### 🎯 Currently
+
+Exploring 2027 opportunities in **Data Science, Product & Decision Science, Analytics, and Applied AI**.
 
 ---
 
