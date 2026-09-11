@@ -16,7 +16,7 @@ I'm especially drawn to problems involving **product analytics, experimentation,
 
 ### 🎯 Currently
 
-Exploring 2027 opportunities in **Data Science, Product & Decision Science, Analytics, and Applied AI**.
+Exploring new grad opportunities in **Data Science, Product & Decision Science, Analytics, and Applied AI**.
 
 ---
 
