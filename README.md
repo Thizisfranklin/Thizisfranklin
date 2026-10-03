@@ -1,6 +1,6 @@
 # Hi, I'm Franklin 👋
 
-Senior data science student · B.S. expected May 2027 · [LinkedIn](https://www.linkedin.com/in/franklinmo/)
+Senior data science student · B.S. Data Science Expected May 2027 · [LinkedIn](https://www.linkedin.com/in/franklinmo/)
 
 I build projects that connect data analysis and machine learning to concrete decisions. I'm interested in data science, analytics, and applied AI roles.
 
