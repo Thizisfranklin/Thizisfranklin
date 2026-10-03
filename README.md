@@ -10,7 +10,7 @@ I build projects that connect data analysis and machine learning to concrete dec
 |---|---|
 | [FraudGraph](https://github.com/Thizisfranklin/FraudGraph) | How can graph relationships help investigate suspicious activity? |
 | [Anfield Stadium Ticket Value & Revenue](https://github.com/Thizisfranklin/Anfield-Stadium-Ticket-Value-Revenue) | Explored ticket value and revenue for Liverpool's Anfield stadium. |
-| [Retail Promotion Targeting](https://github.com/Thizisfranklin/Retail-Promotion-Targeting-Uplift-Modeling) | **In development:** using a randomized email experiment to study incremental customer response. |
+| [Retail Promotion Targeting](https://github.com/Thizisfranklin/Retail-Promotion-Targeting-Uplift-Modeling) | Analyzing randomized email campaigns with Python, SQL, and uplift modeling to measure incremental purchases and evaluate customer targeting.|
 | [Agent Lens](https://github.com/Thizisfranklin/AGENTLENS) | **In design:** evaluating an AI support agent's tool use, policy compliance, and reliability in a simulated store. |
 
 ## More work
