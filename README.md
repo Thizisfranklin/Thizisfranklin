@@ -2,22 +2,37 @@
 
 **Data Science student at the University of Texas at Arlington · Graduating May 2027**
 
-I'm interested in machine learning, statistics, and applied AI—especially understanding how models work, how to evaluate them, and where they fall short. Right now, I'm focused on strengthening those foundations.
+I'm interested in machine learning, statistics, and applied AI. AI especially intrigues me: how these systems work, what they can and can't do, and where the field is heading. I enjoy exploring those questions through data and building things that make ideas tangible.
 
-[LinkedIn](https://www.linkedin.com/in/franklinmo/) · [Email](mailto:franklinahamefula176@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/franklinmo/)
 
-## Experience
-
-**Pfizer · Applied AI Extern**  
-Developed an OCR and retrieval-based prototype to make clinical-supply documents easier to search. In evaluation, the workflow achieved approximately 94% extraction accuracy and 85% retrieval accuracy.
-
-**NY Racing Team · Data Science Extern**  
-Analyzed sponsorship exposure and engagement and developed a scoring framework to compare partnership opportunities. Identified three priority sponsorship prospects for leadership consideration.
+---
 
 ## Featured projects
 
-**[FraudGraph — Bitcoin Transaction Risk Analysis](https://github.com/Thizisfranklin/FraudGraph)**  
-Compared transaction-only and graph-enhanced approaches to illicit-transaction detection, including evaluation on later transaction data.
+### [FraudGraph](https://github.com/Thizisfranklin/FraudGraph)
+**Graph machine learning · Risk analysis**
 
-**[Anfield Matchday Intelligence](https://github.com/Thizisfranklin/Anfield-Stadium-Ticket-Value-Revenue)**  
-Studied unused and forwarded Liverpool FC tickets across two Premier League seasons, evaluated forecasting approaches, and presented the findings in an interactive application.
+Compared transaction-only and graph-enhanced models to investigate whether Bitcoin transaction relationships improve illicit-transaction detection—and how well those results hold up over time.
+
+### [Anfield Matchday Intelligence](https://github.com/Thizisfranklin/Anfield-Stadium-Ticket-Value-Revenue)
+**Sports analytics · Forecasting**
+
+Explored unused and forwarded Liverpool FC tickets across two Premier League seasons, tested forecasting methods, and brought the analysis together in an [interactive experience](https://thizisfranklin.github.io/Anfield-Stadium-Ticket-Value-Revenue/).
+
+### [Retail Marketing Intelligence](https://github.com/Thizisfranklin/Retail-Promotion-Targeting-Uplift-Modeling)
+**Experimentation · Uplift modeling**
+
+Analyzed a randomized email campaign to understand which purchases were driven by promotions. Tested whether uplift-based targeting beat random selection; the held-out results didn't establish a clear advantage.
+
+---
+
+## Tools
+
+**Languages & data:** Python · SQL · pandas · NumPy  
+**Machine learning:** scikit-learn · XGBoost · NetworkX · PyTorch  
+**Development & visualization:** Git · GitHub · Streamlit · React · Plotly
+
+## Other work
+
+[SmartChurn](https://github.com/Thizisfranklin/SmartChurn) · [DiabetesWatch](https://github.com/Thizisfranklin/DiabetesWatch) · [HousePrice Evaluator](https://github.com/Thizisfranklin/HousePrice-Evaluator) · [FarmGuard](https://github.com/Thizisfranklin/FarmGuard--Mushroom--Safety-Classifier)
