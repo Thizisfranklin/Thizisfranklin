@@ -1,6 +1,6 @@
 # Hi, I'm Franklin 👋
 
-**Data Science student at the University of Texas at Arlington · Graduating May 2027**
+**Data Science student at the University of Texas at Arlington 
 
 I'm interested in machine learning, statistics, and applied AI. AI especially intrigues me: how these systems work, what they can and can't do, and where the field is heading. I enjoy exploring those questions through data and building things that make ideas tangible.
 
