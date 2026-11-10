@@ -99,6 +99,14 @@ My externship work has also involved Python ETL pipelines, SQL analysis, and bri
       </a>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <strong>When the whole team's code finally runs.</strong><br><br>
+      <a href="https://giphy.com/gifs/lacalabazadaily-cats-calabaza-la-puiUgSNbuLhbj0irE0">
+        <img src="https://media3.giphy.com/media/puiUgSNbuLhbj0irE0/giphy-downsized.gif" width="280" alt="Three kittens dancing together, with a cowboy hat on the middle cat and glasses on the cat to the right.">
+      </a>
+    </td>
+  </tr>
 </table>
 
 <p align="center"><sub>Still learning. Still building. Always up for a good question.</sub></p>
@@ -106,5 +114,5 @@ My externship work has also involved Python ETL pipelines, SQL analysis, and bri
 <details>
   <summary>GIF credits</summary>
 
-  <p>Football: <a href="https://tenor.com/view/mo-salah-lisandro-martinez-dribble-dribbling-liverpool-gif-11164666431019834580">eyeoftigers / Tenor</a> · Keyboard cat: <a href="https://tenor.com/view/bongo-cat-typing-keyboard-smash-gif-17773853">GabiCake / Tenor</a> · Dabbing cat: <a href="https://tenor.com/view/cat-dab-dabbing-cat-cat-dab-olive-gif-19890231">Ggalaxolotl / Tenor</a></p>
+  <p>Football: <a href="https://tenor.com/view/mo-salah-lisandro-martinez-dribble-dribbling-liverpool-gif-11164666431019834580">eyeoftigers / Tenor</a> · Keyboard cat: <a href="https://tenor.com/view/bongo-cat-typing-keyboard-smash-gif-17773853">GabiCake / Tenor</a> · Dabbing cat: <a href="https://tenor.com/view/cat-dab-dabbing-cat-cat-dab-olive-gif-19890231">Ggalaxolotl / Tenor</a> · Dancing trio: <a href="https://giphy.com/gifs/lacalabazadaily-cats-calabaza-la-puiUgSNbuLhbj0irE0">LA CALABAZA DAILY / GIPHY</a></p>
 </details>
