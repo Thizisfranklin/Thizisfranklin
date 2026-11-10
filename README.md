@@ -70,8 +70,8 @@ AI gives me plenty of questions to chase. Data gives me a way to test them.
 
 | Area | Tools & workflows |
 | :--- | :--- |
-| **Languages & analysis** | Python · SQL · pandas · NumPy |
-| **Machine learning & graphs** | scikit-learn · XGBoost · PyTorch · NetworkX |
+| **Languages & analysis** | Python · SQL · pandas · NumPy . R |
+| **Machine learning & graphs** | scikit-learn · XGBoost · PyTorch · NetworkX . Keras|
 | **Data platforms & pipelines** | Databricks · Snowflake · Python ETL · Data preparation |
 | **Apps & visualization** | Streamlit · React · Plotly |
 | **Development** | Git · GitHub |
