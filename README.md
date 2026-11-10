@@ -68,13 +68,16 @@ AI gives me plenty of questions to chase. Data gives me a way to test them.
 
 ## What I work with
 
-| Area | Tools & workflows |
+| Area | Skills, tools & workflows |
 | :--- | :--- |
-| **Languages & analysis** | Python · SQL · pandas · NumPy . R |
-| **Machine learning & graphs** | scikit-learn · XGBoost · PyTorch · NetworkX . Keras|
-| **Data platforms & pipelines** | Databricks · Snowflake · Python ETL · Data preparation |
+| **Languages & configuration** | Python · R · SQL · Shell · YAML |
+| **Data analysis** | pandas · NumPy |
+| **Machine learning & graphs** | scikit-learn · XGBoost · PyTorch · Keras · NetworkX |
+| **AI & NLP** | LLMs · NLP · LangChain · OpenAI API · Hugging Face · Responsible AI |
+| **Computer vision & OCR** | Computer vision · OCR |
+| **Data platforms & pipelines** | Databricks · Snowflake · ETL · ELT · Data preparation |
 | **Apps & visualization** | Streamlit · React · Plotly |
-| **Development** | Git · GitHub |
+| **Development & delivery** | Git · GitHub · Docker · CI/CD |
 
 My externship work has also involved Python ETL pipelines, SQL analysis, and bringing fragmented data together to support decisions.
 
