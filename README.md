@@ -97,9 +97,19 @@ My externship work has also involved Python ETL pipelines, SQL analysis, and bri
     </td>
     <td align="center" width="50%">
       <strong>When the pipeline finally runs.</strong><br><br>
-      <a href="https://tenor.com/view/cat-dab-dabbing-cat-cat-dab-olive-gif-19890231">
-        <img src="https://media1.tenor.com/m/YeyI18-v-d8AAAAC/cat-dab.gif" height="150" alt="A black cat doing a celebratory dab.">
-      </a>
+      <a href="https://tenor.com/view/cat-dance-cat-nose-dance-gif-1793206140079075044">
+        <img src="https://media1.tenor.com/m/GOK_e8x2buQAAAAd/cat-dance-cat.gif" height="150" alt="A little kitten doing the nose dance and waving its paws.">
+      </a><br>
+      <sub>Hold my nose, wave my paws — WE ARE SO BACK! 💃</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <strong>When the tests finally turn green. 👏</strong><br><br>
+      <a href="https://tenor.com/view/handshake-cat-meme-black-cat-ai-black-cat-memecat-gif-3910325972591826807">
+        <img src="https://media1.tenor.com/m/NkREwRhR13cAAAAd/handshake-cat-meme.gif" height="165" alt="A black cat standing up, clapping its paws.">
+      </a><br>
+      <sub>Give that pipeline a round of a-paws. 🐾</sub>
     </td>
   </tr>
   <tr>
@@ -117,5 +127,5 @@ My externship work has also involved Python ETL pipelines, SQL analysis, and bri
 <details>
   <summary>GIF credits</summary>
 
-  <p>Football: <a href="https://tenor.com/view/mo-salah-lisandro-martinez-dribble-dribbling-liverpool-gif-11164666431019834580">eyeoftigers / Tenor</a> · Keyboard cat: <a href="https://tenor.com/view/bongo-cat-typing-keyboard-smash-gif-17773853">GabiCake / Tenor</a> · Dabbing cat: <a href="https://tenor.com/view/cat-dab-dabbing-cat-cat-dab-olive-gif-19890231">Ggalaxolotl / Tenor</a> · Dancing trio: <a href="https://giphy.com/gifs/lacalabazadaily-cats-calabaza-la-puiUgSNbuLhbj0irE0">LA CALABAZA DAILY / GIPHY</a></p>
+  <p>Football: <a href="https://tenor.com/view/mo-salah-lisandro-martinez-dribble-dribbling-liverpool-gif-11164666431019834580">eyeoftigers / Tenor</a> · Keyboard cat: <a href="https://tenor.com/view/bongo-cat-typing-keyboard-smash-gif-17773853">GabiCake / Tenor</a> · Nose-dancing kitten: <a href="https://tenor.com/view/cat-dance-cat-nose-dance-gif-1793206140079075044">BBMO0 / Tenor</a> · Clapping cat: <a href="https://tenor.com/view/handshake-cat-meme-black-cat-ai-black-cat-memecat-gif-3910325972591826807">Kirro / Tenor</a> · Dancing trio: <a href="https://giphy.com/gifs/lacalabazadaily-cats-calabaza-la-puiUgSNbuLhbj0irE0">LA CALABAZA DAILY / GIPHY</a></p>
 </details>
