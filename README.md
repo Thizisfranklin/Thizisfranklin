@@ -1,131 +1,111 @@
 <h1 align="center">Hi, I'm Franklin 👋</h1>
 
 <p align="center">
-  <strong>Final-year B.S. Data Science student at The University of Texas at Arlington</strong><br>
-  Machine learning · Statistics · Applied AI
+  <strong>Data Science · Machine Learning · Applied AI</strong><br>
+  B.S. Data Science, The University of Texas at Arlington · Expected May 2027
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/franklinmo/">LinkedIn ↗</a> &nbsp;·&nbsp;
-  <a href="#featured-projects">Explore my projects ↓</a>
+  <a href="https://www.linkedin.com/in/franklinmo/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="#experience">Experience</a> &nbsp;·&nbsp;
+  <a href="#featured-projects">Projects</a>
 </p>
 
 ---
 
-### It started with a question: can you “speak” code?
+## A little about me
 
-Coding caught my attention before computer science did. I wanted to understand how programming languages compare with the languages we speak—and whether I could learn to “speak” one. That curiosity, and the friends I made along the way, kept me exploring.
+I'm interested in **using data, machine learning, and thoughtful engineering to solve real problems**. I enjoy questioning existing approaches, testing alternatives, and turning an analysis or model into something people can actually use.
 
-Now I'm fascinated by how systems learn from data: how models work, where they fail, and what makes them useful in the real world. **I'm working toward a career building ML models and the systems around them**, from data preparation and evaluation to deployment and monitoring. Over time, I'd love to lead a team doing that work.
+My interest in coding started with a question: *Can you learn to “speak” a programming language?* That curiosity eventually grew into a fascination with how AI systems work—not just how to train models, but how to evaluate them, understand their limitations, and build reliable applications around them.
 
-AI gives me plenty of questions to chase. Data gives me a way to test them.
+I'm especially drawn to **applied data science and AI**, where the goal is to find a better way to do something, not simply use the most complicated model. I'm currently exploring entry-level opportunities in **data science, machine learning, and analytics**.
 
-<p align="center">
-  <a href="https://media.tenor.com/mvDc91CqXNQAAAPo/mo-salah-lisandro-martinez.mp4">
-    <img src="https://media1.tenor.com/m/mvDc91CqXNQAAAAC/mo-salah-lisandro-martinez.gif" width="440" alt="Mohamed Salah dribbling past a defender during a Liverpool match. Click to watch the MP4 clip.">
-  </a><br>
-  <sub>A quick football break before the projects. ⚽ <a href="https://media.tenor.com/mvDc91CqXNQAAAPo/mo-salah-lisandro-martinez.mp4">Watch the clip ↗</a></sub>
-</p>
+## Experience
+
+- **Pfizer · AI Document Intelligence Extern** — Built a document assistant for clinical supply vendor reviews using OCR, retrieval-augmented generation (RAG), and source-backed answers. In a limited team pilot, review time dropped from roughly **4 hours to under 30 minutes**.
+- **NY Racing Team · Data Science Extern** — Developed Python ETL workflows with APIs, web scraping, SQL, and Snowflake to bring together media and audience data. Evaluated sponsorship scoring methods and presented Tableau-backed recommendations, identifying opportunities with **up to $2M in estimated potential partnership value**.
+- **UT Arlington · Office of International Education** — Support advising operations through SQL-based student-record analysis, help improve website and e-form workflows, and train incoming student staff.
+
+### What I'm working on now
+
+- **Agricultural computer vision research** — Developing and evaluating CNN-based approaches to classify trees for a camera-based plant identification application. *In progress.*
+- **Facial expression recognition** — Working on a research capstone that compares deep learning approaches for classifying facial expressions, with an emphasis on evaluation, generalization, and potential assistive applications.
 
 ## Featured projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🕸️ <a href="https://github.com/Thizisfranklin/FraudGraph">FraudGraph ↗</a></h3>
-      <p><strong>Graph machine learning · Transaction risk</strong></p>
-      <p>Do transaction relationships help us detect illicit activity? Compared transaction-only and graph-enhanced models on Bitcoin data, then examined how well the results hold up over time.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>✍️ <a href="https://github.com/Thizisfranklin/emnist-letter-recognition">EMNIST Letter Recognition ↗</a></h3>
-      <p><strong>Computer vision · Deep learning · Team project</strong></p>
-      <p>Prepared the shared preprocessing pipeline for a 26-class handwriting project, including duplicate checks and fixed, stratified data splits. Next: comparing an ANN baseline with two CNN architectures.</p>
-      <p><em>In progress · Preprocessing complete; model comparison ahead.</em></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚽ <a href="https://github.com/Thizisfranklin/Anfield-Stadium-Ticket-Value-Revenue">Anfield Matchday Intelligence ↗</a></h3>
-      <p><strong>Sports analytics · Forecasting</strong></p>
-      <p>Explored unused and forwarded Liverpool FC tickets across two Premier League seasons, compared forecasting methods, and brought the findings into an interactive experience.</p>
-      <p><a href="https://thizisfranklin.github.io/Anfield-Stadium-Ticket-Value-Revenue/">Explore the interactive analysis →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛒 <a href="https://github.com/Thizisfranklin/Retail-Promotion-Targeting-Uplift-Modeling">Retail Marketing Intelligence ↗</a></h3>
-      <p><strong>Experimentation · Uplift modeling</strong></p>
-      <p>Which purchases did a promotion actually cause? Analyzed a randomized email campaign and tested uplift-based targeting against random selection. The held-out results didn't establish a clear advantage.</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🔎 <a href="https://github.com/Thizisfranklin/AGENTLENS">Agent Lens ↗</a></h3>
-      <p><strong>Agentic AI · Tool use · Reliability evaluation</strong></p>
-      <p>Designing a customer-support agent evaluation project around a fictional shop, NovaShop. The question: can an agent complete tasks correctly, follow business policies, and leave the system in the right state? Planned experiments cover tool use, failure modes, and recovery.</p>
-      <p><em>In design · Architecture and evaluation plan defined.</em></p>
-    </td>
-  </tr>
-</table>
-
-## What I work with
-
-| Area | Skills, tools & workflows |
+| Project | What I explored |
 | :--- | :--- |
-| **Languages & configuration** | Python · R · SQL · Shell · YAML |
-| **Data analysis** | pandas · NumPy |
-| **Machine learning & graphs** | scikit-learn · XGBoost · PyTorch · Keras · NetworkX |
-| **AI & NLP** | LLMs · NLP · LangChain |
-| **Computer vision & OCR** | Computer vision · OCR |
-| **Data platforms & pipelines** | Databricks · Snowflake · ETL · ELT · Data preparation |
-| **Apps & visualization** | Streamlit · React · Matplotlib · Seaborn |
-| **Development & delivery** | Git · GitHub · Docker · CI/CD |
+| **[FraudGraph](https://github.com/Thizisfranklin/FraudGraph)** | Compared transaction-only and graph-enhanced approaches to detecting suspicious Bitcoin activity, including how performance changes over time. |
+| **[Retail Marketing Intelligence](https://github.com/Thizisfranklin/Retail-Promotion-Targeting-Uplift-Modeling)** | Used randomized-campaign data to study *incremental* purchases and test uplift-based targeting. The held-out results did not establish a clear improvement over random selection. |
+| **[Anfield Matchday Intelligence](https://github.com/Thizisfranklin/Anfield-Stadium-Ticket-Value-Revenue)** | Analyzed Liverpool FC ticket usage and forwarding patterns, compared forecasting methods, and built an [interactive analysis](https://thizisfranklin.github.io/Anfield-Stadium-Ticket-Value-Revenue/). |
+| **[EMNIST Letter Recognition](https://github.com/Thizisfranklin/emnist-letter-recognition)** | Built shared preprocessing for a 26-class handwritten-letter project, including duplicate checks and stratified splits. *Model comparisons in progress.* |
+| **[Agent Lens](https://github.com/Thizisfranklin/AGENTLENS)** | Designing an evaluation framework for an AI support agent: tool use, policy compliance, task completion, and recovery from failures. *In design.* |
 
-My externship work has also involved Python ETL pipelines, SQL analysis, and bringing fragmented data together to support decisions.
+## Tools & skills
 
-## More things I've built
+| Area | Tools and methods |
+| :--- | :--- |
+| **Programming & analysis** | Python (pandas, NumPy, SciPy) · SQL · R · SAS |
+| **Machine learning & experimentation** | scikit-learn · XGBoost · PyTorch · TensorFlow/Keras · A/B testing · NetworkX |
+| **Applied AI & NLP** | LLMs · RAG · LlamaIndex · ChromaDB · FAISS · spaCy |
+| **Computer vision & OCR** | OpenCV · Tesseract · PaddleOCR |
+| **Data engineering & platforms** | ETL pipelines · APIs · Web scraping · Snowflake · PostgreSQL · PySpark · Azure |
+| **Visualization & applications** | Tableau · Power BI · Excel · Matplotlib · Streamlit · Gradio · React |
+| **Development tools** | Git/GitHub · Shell · MLflow · DVC |
 
-[SmartChurn](https://github.com/Thizisfranklin/SmartChurn) · [DiabetesWatch](https://github.com/Thizisfranklin/DiabetesWatch) · [HousePrice Evaluator](https://github.com/Thizisfranklin/HousePrice-Evaluator) · [FarmGuard](https://github.com/Thizisfranklin/FarmGuard--Mushroom--Safety-Classifier)
+**More projects:** [SmartChurn](https://github.com/Thizisfranklin/SmartChurn) · [DiabetesWatch](https://github.com/Thizisfranklin/DiabetesWatch) · [HousePrice Evaluator](https://github.com/Thizisfranklin/HousePrice-Evaluator) · [FarmGuard](https://github.com/Thizisfranklin/FarmGuard--Mushroom--Safety-Classifier)
 
-## Behind the experiments
+## Outside the terminal ⚽
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <strong>Me, working through the data.</strong><br><br>
-      <a href="https://tenor.com/view/bongo-cat-typing-keyboard-smash-gif-17773853">
-        <img src="https://media1.tenor.com/m/0ygiqFaX-ssAAAAC/bongo-cat-typing.gif" height="150" alt="Bongo Cat tapping away at a keyboard.">
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <strong>When the pipeline finally runs.</strong><br><br>
-      <a href="https://tenor.com/view/cat-dance-cat-nose-dance-gif-1793206140079075044">
-        <img src="https://media1.tenor.com/m/GOK_e8x2buQAAAAd/cat-dance-cat.gif" height="150" alt="A little kitten doing the nose dance and waving its paws.">
-      </a><br>
-      <sub>Hold my nose, wave my paws — WE ARE SO BACK! 💃</sub>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <strong>When the tests finally turn green. 👏</strong><br><br>
-      <a href="https://tenor.com/view/handshake-cat-meme-black-cat-ai-black-cat-memecat-gif-3910325972591826807">
-        <img src="https://media1.tenor.com/m/NkREwRhR13cAAAAd/handshake-cat-meme.gif" height="165" alt="A black cat standing up, clapping its paws.">
-      </a><br>
-      <sub>Give that pipeline a round of a-paws. 🐾</sub>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <strong>When the whole team's code finally runs.</strong><br><br>
-      <a href="https://giphy.com/gifs/lacalabazadaily-cats-calabaza-la-puiUgSNbuLhbj0irE0">
-        <img src="https://media3.giphy.com/media/puiUgSNbuLhbj0irE0/giphy-downsized.gif" width="280" alt="Three kittens dancing together, with a cowboy hat on the middle cat and glasses on the cat to the right.">
-      </a>
-    </td>
-  </tr>
-</table>
+Big football fan. Sometimes I need a break from debugging—and a little Liverpool magic does the job.
+
+<p align="center">
+  <a href="https://media.tenor.com/mvDc91CqXNQAAAPo/mo-salah-lisandro-martinez.mp4">
+    <img src="https://media1.tenor.com/m/mvDc91CqXNQAAAAC/mo-salah-lisandro-martinez.gif" width="320" alt="Mohamed Salah dribbling past a defender during a Liverpool match.">
+  </a><br>
+  <sub>A quick football break. ⚽ <a href="https://media.tenor.com/mvDc91CqXNQAAAPo/mo-salah-lisandro-martinez.mp4">Watch the clip ↗</a></sub>
+</p>
+
+<details>
+  <summary><strong>🐈 Behind the experiments: the unofficial debugging diary</strong></summary>
+  <br>
+  <table>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <strong>Me, working through the data.</strong><br><br>
+        <a href="https://tenor.com/view/bongo-cat-typing-keyboard-smash-gif-17773853">
+          <img src="https://media1.tenor.com/m/0ygiqFaX-ssAAAAC/bongo-cat-typing.gif" height="140" alt="Bongo Cat typing at a keyboard.">
+        </a>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <strong>When the pipeline finally runs.</strong><br><br>
+        <a href="https://tenor.com/view/cat-dance-cat-nose-dance-gif-1793206140079075044">
+          <img src="https://media1.tenor.com/m/GOK_e8x2buQAAAAd/cat-dance-cat.gif" height="140" alt="A dancing kitten waving its paws.">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <strong>When the tests turn green.</strong><br><br>
+        <a href="https://tenor.com/view/handshake-cat-meme-black-cat-ai-black-cat-memecat-gif-3910325972591826807">
+          <img src="https://media1.tenor.com/m/NkREwRhR13cAAAAd/handshake-cat-meme.gif" height="140" alt="A black cat clapping its paws.">
+        </a>
+      </td>
+      <td align="center" valign="top">
+        <strong>When the whole team's code finally works.</strong><br><br>
+        <a href="https://giphy.com/gifs/lacalabazadaily-cats-calabaza-la-puiUgSNbuLhbj0irE0">
+          <img src="https://media3.giphy.com/media/puiUgSNbuLhbj0irE0/giphy-downsized.gif" height="140" alt="Three kittens dancing together.">
+        </a>
+      </td>
+    </tr>
+  </table>
+  <sub>GIF credits: <a href="https://tenor.com/view/bongo-cat-typing-keyboard-smash-gif-17773853">GabiCake / Tenor</a> · <a href="https://tenor.com/view/cat-dance-cat-nose-dance-gif-1793206140079075044">BBMO0 / Tenor</a> · <a href="https://tenor.com/view/handshake-cat-meme-black-cat-ai-black-cat-memecat-gif-3910325972591826807">Kirro / Tenor</a> · <a href="https://giphy.com/gifs/lacalabazadaily-cats-calabaza-la-puiUgSNbuLhbj0irE0">LA CALABAZA DAILY / GIPHY</a></sub>
+</details>
 
 <p align="center"><sub>Still learning. Still building. Always up for a good question.</sub></p>
 
 <details>
-  <summary>GIF credits</summary>
-
-  <p>Football: <a href="https://tenor.com/view/mo-salah-lisandro-martinez-dribble-dribbling-liverpool-gif-11164666431019834580">eyeoftigers / Tenor</a> · Keyboard cat: <a href="https://tenor.com/view/bongo-cat-typing-keyboard-smash-gif-17773853">GabiCake / Tenor</a> · Nose-dancing kitten: <a href="https://tenor.com/view/cat-dance-cat-nose-dance-gif-1793206140079075044">BBMO0 / Tenor</a> · Clapping cat: <a href="https://tenor.com/view/handshake-cat-meme-black-cat-ai-black-cat-memecat-gif-3910325972591826807">Kirro / Tenor</a> · Dancing trio: <a href="https://giphy.com/gifs/lacalabazadaily-cats-calabaza-la-puiUgSNbuLhbj0irE0">LA CALABAZA DAILY / GIPHY</a></p>
+  <summary>Football GIF credit</summary>
+  <p><a href="https://tenor.com/view/mo-salah-lisandro-martinez-dribble-dribbling-liverpool-gif-11164666431019834580">eyeoftigers / Tenor</a></p>
 </details>
