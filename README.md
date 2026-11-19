@@ -15,22 +15,22 @@
 
 ## A little about me
 
-I'm interested in **using data, machine learning, and thoughtful engineering to solve real problems**. I enjoy questioning existing approaches, testing alternatives, and turning an analysis or model into something people can actually use.
+I got into coding because I was curious whether you could learn to “speak” a programming language the way you learn a spoken one. That curiosity has stuck with me, but the questions have changed.
 
-My interest in coding started with a question: *Can you learn to “speak” a programming language?* That curiosity eventually grew into a fascination with how AI systems work—not just how to train models, but how to evaluate them, understand their limitations, and build reliable applications around them.
+These days, I'm interested in **how machine learning and AI systems actually work**, especially when the data is messy, the scale gets bigger, or the obvious approach isn't the best one. I like exploring different ways to solve a problem, understanding why one method works better than another, and figuring out how to turn a model or an analysis into something useful.
 
-I'm especially drawn to **applied data science and AI**, where the goal is to find a better way to do something, not simply use the most complicated model. I'm currently exploring entry-level opportunities in **data science, machine learning, and analytics**.
+I'm a data science student at UT Arlington, still learning and building as I go. I'm particularly interested in **applied data science, machine learning, and AI**, and I'm open to entry-level opportunities in data science, ML, and analytics.
 
 ## Experience
 
-- **Pfizer · AI Document Intelligence Extern** — Built a document assistant for clinical supply vendor reviews using OCR, retrieval-augmented generation (RAG), and source-backed answers. In a limited team pilot, review time dropped from roughly **4 hours to under 30 minutes**.
+- **Pfizer · Applied AI Extern** — Built a document assistant for clinical supply vendor reviews using OCR, retrieval-augmented generation (RAG), and source-backed answers. In a limited team pilot, review time dropped from roughly **4 hours to under 30 minutes**.
 - **NY Racing Team · Data Science Extern** — Developed Python ETL workflows with APIs, web scraping, SQL, and Snowflake to bring together media and audience data. Evaluated sponsorship scoring methods and presented Tableau-backed recommendations, identifying opportunities with **up to $2M in estimated potential partnership value**.
 - **UT Arlington · Office of International Education** — Support advising operations through SQL-based student-record analysis, help improve website and e-form workflows, and train incoming student staff.
 
 ### What I'm working on now
 
-- **Agricultural computer vision research** — Developing and evaluating CNN-based approaches to classify trees for a camera-based plant identification application. *In progress.*
-- **Facial expression recognition** — Working on a research capstone that compares deep learning approaches for classifying facial expressions, with an emphasis on evaluation, generalization, and potential assistive applications.
+- **Facial Expression Recognition** — Developing and evaluating CNN and transfer learning models to recognize three facial expressions (angry, happy, and sad). Exploring integration into a live-camera application and potential assistive uses.
+- **[Agent Lens](https://github.com/Thizisfranklin/AGENTLENS)** — Designing ways to evaluate AI agents beyond whether they produce a convincing answer: did they use tools correctly, follow the rules, complete the task, and recover when something went wrong? *In design.*
 
 ## Featured projects
 
