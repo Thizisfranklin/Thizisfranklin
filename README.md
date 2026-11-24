@@ -1,19 +1,27 @@
-<h1 align="center">Hi, I'm Franklin 👋</h1>
-
 <p align="center">
-  <strong>Data Science · Machine Learning · Applied AI</strong><br>
-  B.S. Data Science, The University of Texas at Arlington · Expected May 2027
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:091529,50:125B74,100:35C8BF&text=Hi%2C%20I'm%20Franklin&fontColor=FFFFFF&fontSize=43&fontAlignY=38&desc=Data%20Science%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Applied%20AI&descAlignY=61&descSize=17" alt="Hi, I'm Franklin — Data Science, Machine Learning and Applied AI" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/franklinmo/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="#experience">Experience</a> &nbsp;·&nbsp;
-  <a href="#featured-projects">Projects</a>
+  <strong>Machine Learning Researcher · B.S. Data Science at UT Arlington · Expected May 2027</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/franklinmo/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0B5F75?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="#featured-projects"><img src="https://img.shields.io/badge/Projects-Explore-118D97?style=for-the-badge&logo=github&logoColor=white" alt="Featured projects"></a>
+  <a href="#experience"><img src="https://img.shields.io/badge/Experience-View-12304E?style=for-the-badge" alt="Experience"></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Data%20%26%20ML-12304E?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-0B5F75?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/SQL-Data%20Pipelines-118D97?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/RAG-Applied%20AI-12304E?style=flat-square" alt="Retrieval-augmented generation">
 </p>
 
 ---
 
-## A little about me
+## About me
 
 I got into coding because I was curious whether you could learn to “speak” a programming language the way you learn a spoken one. That curiosity has stuck with me, but the questions have changed.
 
@@ -43,7 +51,7 @@ I'm a data science student at UT Arlington, still learning and building as I go.
 | **[Anfield Matchday Intelligence](https://github.com/Thizisfranklin/Anfield-Stadium-Ticket-Value-Revenue)** | Analyzed Liverpool FC ticket usage and forwarding patterns, compared forecasting methods, and built an [interactive analysis](https://thizisfranklin.github.io/Anfield-Stadium-Ticket-Value-Revenue/). |
 | **[Agent Lens](https://github.com/Thizisfranklin/AGENTLENS)** | Designing an evaluation framework for an AI support agent: tool use, policy compliance, task completion, and recovery from failures. *In design.* |
 
-## Tools & skills
+## Toolkit
 
 | Area | Tools and methods |
 | :--- | :--- |
@@ -56,6 +64,14 @@ I'm a data science student at UT Arlington, still learning and building as I go.
 | **Development tools** | Git/GitHub · Shell · MLflow · DVC |
 
 **More projects:** [SmartChurn](https://github.com/Thizisfranklin/SmartChurn) · [DiabetesWatch](https://github.com/Thizisfranklin/DiabetesWatch) · [HousePrice Evaluator](https://github.com/Thizisfranklin/HousePrice-Evaluator) · [FarmGuard](https://github.com/Thizisfranklin/FarmGuard--Mushroom--Safety-Classifier)
+
+## GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thizisfranklin&bg_color=0B1220&color=DAF7FA&line=35C8BF&point=9ECBF7&area=true&area_color=125B74&hide_border=true" alt="GitHub activity graph for Thizisfranklin" width="100%">
+</p>
+
+<sub>Activity reflects public GitHub contributions; it isn't a measure of model quality or research impact.</sub>
 
 ## Outside the terminal ⚽
 
