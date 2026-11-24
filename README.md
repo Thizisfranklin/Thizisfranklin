@@ -23,9 +23,10 @@ I'm a data science student at UT Arlington, still learning and building as I go.
 
 ## Experience
 
-- **Pfizer · Applied AI Extern** — Built a document assistant for clinical supply vendor reviews using OCR, retrieval-augmented generation (RAG), and source-backed answers. In a limited team pilot, review time dropped from roughly **4 hours to under 30 minutes**.
-- **NY Racing Team · Data Science Extern** — Developed Python ETL workflows with APIs, web scraping, SQL, and Snowflake to bring together media and audience data. Evaluated sponsorship scoring methods and presented Tableau-backed recommendations, identifying opportunities with **up to $2M in estimated potential partnership value**.
-- **UT Arlington · Office of International Education** — Support advising operations through SQL-based student-record analysis, help improve website and e-form workflows, and train incoming student staff.
+- **Pfizer** · Applied AI Extern
+- **NY Racing Team** · Data Science Extern
+- **The University of Texas at Arlington** · Machine Learning Researcher (Capstone Project)
+- **The University of Texas at Arlington** · Senior Student Assistant, Office of International Education
 
 ### What I'm working on now
 
@@ -36,9 +37,9 @@ I'm a data science student at UT Arlington, still learning and building as I go.
 
 | Project | What I explored |
 | :--- | :--- |
-| **[Handwritten Letter Recognition — EMNIST](https://github.com/Thizisfranklin/emnist-letter-recognition)** | For our capstone, I handled preprocessing and EDA for 10,000 images, discovered missing test-set classes, and created shared stratified splits. Our team compared a baseline CNN, DenseNet121, and MobileNetV2, tested additional handwritten pages, and built an interactive Gradio demo. **MobileNetV2 trained from scratch reached 90.29% test accuracy.** [My preprocessing work](https://github.com/Thizisfranklin/emnist-letter-recognition/tree/main/Preprocessing). |
+| **[Handwritten Letter Recognition — EMNIST](https://github.com/Thizisfranklin/emnist-letter-recognition)** | Built a deep learning system to recognize 26 handwritten English letters using EMNIST. Compared a baseline CNN, DenseNet121, and MobileNetV2, examined errors on similar-looking letters, tested additional handwritten pages, and built an interactive Gradio demo. **MobileNetV2 trained from scratch achieved 90.29% accuracy** on the project's held-out test set. |
 | **[FraudGraph](https://github.com/Thizisfranklin/FraudGraph)** | Compared transaction-only and graph-enhanced approaches to detecting suspicious Bitcoin activity, including how performance changes over time. |
-| **[Retail Marketing Intelligence](https://github.com/Thizisfranklin/Retail-Promotion-Targeting-Uplift-Modeling)** | Used randomized-campaign data to study *incremental* purchases and test uplift-based targeting. The held-out results did not establish a clear improvement over random selection. |
+| **[Retail Promotion and Uplift Modeling](https://github.com/Thizisfranklin/Retail-Promotion-Targeting-Uplift-Modeling)** | Used randomized-campaign data to study *incremental* purchases and test uplift-based targeting. The held-out results did not establish a clear improvement over random selection. |
 | **[Anfield Matchday Intelligence](https://github.com/Thizisfranklin/Anfield-Stadium-Ticket-Value-Revenue)** | Analyzed Liverpool FC ticket usage and forwarding patterns, compared forecasting methods, and built an [interactive analysis](https://thizisfranklin.github.io/Anfield-Stadium-Ticket-Value-Revenue/). |
 | **[Agent Lens](https://github.com/Thizisfranklin/AGENTLENS)** | Designing an evaluation framework for an AI support agent: tool use, policy compliance, task completion, and recovery from failures. *In design.* |
 
