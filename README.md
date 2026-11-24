@@ -39,7 +39,6 @@ I'm a data science student at UT Arlington, still learning and building as I go.
 ### What I'm working on now
 
 - **Facial Expression Recognition** — Developing and evaluating CNN and transfer learning models to recognize three facial expressions (angry, happy, and sad). Exploring integration into a live-camera application and potential assistive uses.
-- **[Agent Lens](https://github.com/Thizisfranklin/AGENTLENS)** — Designing ways to evaluate AI agents beyond whether they produce a convincing answer: did they use tools correctly, follow the rules, complete the task, and recover when something went wrong? *In design.*
 
 ## Featured projects
 
@@ -49,7 +48,6 @@ I'm a data science student at UT Arlington, still learning and building as I go.
 | **[FraudGraph](https://github.com/Thizisfranklin/FraudGraph)** | Compared transaction-only and graph-enhanced approaches to detecting suspicious Bitcoin activity, including how performance changes over time. |
 | **[Retail Promotion and Uplift Modeling](https://github.com/Thizisfranklin/Retail-Promotion-Targeting-Uplift-Modeling)** | Used randomized-campaign data to study *incremental* purchases and test uplift-based targeting. The held-out results did not establish a clear improvement over random selection. |
 | **[Anfield Matchday Intelligence](https://github.com/Thizisfranklin/Anfield-Stadium-Ticket-Value-Revenue)** | Analyzed Liverpool FC ticket usage and forwarding patterns, compared forecasting methods, and built an [interactive analysis](https://thizisfranklin.github.io/Anfield-Stadium-Ticket-Value-Revenue/). |
-| **[Agent Lens](https://github.com/Thizisfranklin/AGENTLENS)** | Designing an evaluation framework for an AI support agent: tool use, policy compliance, task completion, and recovery from failures. *In design.* |
 
 ## Toolkit
 
