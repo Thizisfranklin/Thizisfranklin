@@ -36,10 +36,10 @@ I'm a data science student at UT Arlington, still learning and building as I go.
 
 | Project | What I explored |
 | :--- | :--- |
+| **[Handwritten Letter Recognition — EMNIST](https://github.com/Thizisfranklin/emnist-letter-recognition)** | For our capstone, I handled preprocessing and EDA for 10,000 images, discovered missing test-set classes, and created shared stratified splits. Our team compared a baseline CNN, DenseNet121, and MobileNetV2, tested additional handwritten pages, and built an interactive Gradio demo. **MobileNetV2 trained from scratch reached 90.29% test accuracy.** [My preprocessing work](https://github.com/Thizisfranklin/emnist-letter-recognition/tree/main/Preprocessing). |
 | **[FraudGraph](https://github.com/Thizisfranklin/FraudGraph)** | Compared transaction-only and graph-enhanced approaches to detecting suspicious Bitcoin activity, including how performance changes over time. |
 | **[Retail Marketing Intelligence](https://github.com/Thizisfranklin/Retail-Promotion-Targeting-Uplift-Modeling)** | Used randomized-campaign data to study *incremental* purchases and test uplift-based targeting. The held-out results did not establish a clear improvement over random selection. |
 | **[Anfield Matchday Intelligence](https://github.com/Thizisfranklin/Anfield-Stadium-Ticket-Value-Revenue)** | Analyzed Liverpool FC ticket usage and forwarding patterns, compared forecasting methods, and built an [interactive analysis](https://thizisfranklin.github.io/Anfield-Stadium-Ticket-Value-Revenue/). |
-| **[EMNIST Letter Recognition](https://github.com/Thizisfranklin/emnist-letter-recognition)** | Built shared preprocessing for a 26-class handwritten-letter project, including duplicate checks and stratified splits. *Model comparisons in progress.* |
 | **[Agent Lens](https://github.com/Thizisfranklin/AGENTLENS)** | Designing an evaluation framework for an AI support agent: tool use, policy compliance, task completion, and recovery from failures. *In design.* |
 
 ## Tools & skills
