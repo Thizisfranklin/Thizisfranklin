@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Machine Learning Researcher · B.S. Data Science at UT Arlington · Expected May 2027</strong>
+  <strong>Machine Learning Researcher · Data Science · Applied AI</strong>
 </p>
 
 <p align="center">
@@ -34,20 +34,49 @@ I'm a data science student at UT Arlington, still learning and building as I go.
 - **Pfizer** · Applied AI Extern
 - **NY Racing Team** · Data Science Extern
 - **The University of Texas at Arlington** · Machine Learning Researcher (Capstone Project)
-- **The University of Texas at Arlington** · Senior Student Assistant, Office of International Education
 
-### What I'm working on now
+## What I'm working on now
 
-- **Facial Expression Recognition** — Developing and evaluating CNN and transfer learning models to recognize three facial expressions (angry, happy, and sad). Exploring integration into a live-camera application and potential assistive uses.
+<table>
+<tr><td width="50%" valign="top"><strong>🧠 Deep Learning & Computer Vision</strong><br><br>Researching facial expression recognition with CNNs and transfer learning, with a focus on evaluation and potential assistive applications.</td><td width="50%" valign="top"><strong>🤖 Agentic AI & Applied ML</strong><br><br>Exploring agentic systems, model experimentation, and how to turn machine learning models into useful, reliable AI applications.</td></tr>
+</table>
 
 ## Featured projects
 
-| Project | What I explored |
-| :--- | :--- |
-| **[Handwritten Letter Recognition — EMNIST](https://github.com/Thizisfranklin/emnist-letter-recognition)** | Built a deep learning system to recognize 26 handwritten English letters using EMNIST. Compared a baseline CNN, DenseNet121, and MobileNetV2, examined errors on similar-looking letters, tested additional handwritten pages, and built an interactive Gradio demo. **MobileNetV2 trained from scratch achieved 90.29% accuracy** on the project's held-out test set. |
-| **[FraudGraph](https://github.com/Thizisfranklin/FraudGraph)** | Compared transaction-only and graph-enhanced approaches to detecting suspicious Bitcoin activity, including how performance changes over time. |
-| **[Retail Promotion and Uplift Modeling](https://github.com/Thizisfranklin/Retail-Promotion-Targeting-Uplift-Modeling)** | Used randomized-campaign data to study *incremental* purchases and test uplift-based targeting. The held-out results did not establish a clear improvement over random selection. |
-| **[Anfield Matchday Intelligence](https://github.com/Thizisfranklin/Anfield-Stadium-Ticket-Value-Revenue)** | Analyzed Liverpool FC ticket usage and forwarding patterns, compared forecasting methods, and built an [interactive analysis](https://thizisfranklin.github.io/Anfield-Stadium-Ticket-Value-Revenue/). |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Handwritten Letter Recognition — EMNIST](https://github.com/Thizisfranklin/emnist-letter-recognition)**
+
+Built a deep learning system to recognize 26 handwritten English letters using EMNIST. Compared a baseline CNN, DenseNet121, and MobileNetV2, examined errors on similar-looking letters, tested additional handwritten pages, and built an interactive Gradio demo. **MobileNetV2 trained from scratch achieved 90.29% accuracy** on the project's held-out test set.
+
+</td>
+<td width="50%" valign="top">
+
+**[FraudGraph](https://github.com/Thizisfranklin/FraudGraph)**
+
+Compared transaction-only and graph-enhanced approaches to detecting suspicious Bitcoin activity, including how performance changes over time.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Retail Promotion and Uplift Modeling](https://github.com/Thizisfranklin/Retail-Promotion-Targeting-Uplift-Modeling)**
+
+Used randomized-campaign data to study *incremental* purchases and test uplift-based targeting. The held-out results did not establish a clear improvement over random selection.
+
+</td>
+<td width="50%" valign="top">
+
+**[Anfield Matchday Intelligence](https://github.com/Thizisfranklin/Anfield-Stadium-Ticket-Value-Revenue)**
+
+Analyzed Liverpool FC ticket usage and forwarding patterns, compared forecasting methods, and built an [interactive analysis](https://thizisfranklin.github.io/Anfield-Stadium-Ticket-Value-Revenue/).
+
+</td>
+</tr>
+</table>
 
 ## Toolkit
 
@@ -66,8 +95,10 @@ I'm a data science student at UT Arlington, still learning and building as I go.
 ## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thizisfranklin&bg_color=0B1220&color=DAF7FA&line=35C8BF&point=9ECBF7&area=true&area_color=125B74&hide_border=true" alt="GitHub activity graph for Thizisfranklin" width="100%">
+  <a href="https://github.com/Thizisfranklin#contribution-activity"><img src="https://ghchart.rshah.org/35C8BF/Thizisfranklin" alt="GitHub contribution calendar for Thizisfranklin" width="100%"></a>
 </p>
+
+<p align="center"><a href="https://github.com/Thizisfranklin#contribution-activity">View contribution activity on GitHub</a></p>
 
 <sub>Activity reflects public GitHub contributions; it isn't a measure of model quality or research impact.</sub>
 
